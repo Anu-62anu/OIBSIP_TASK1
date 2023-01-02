@@ -1,0 +1,123 @@
+.xg {
+    background-color: white;
+    height: 140px;
+    width: 100vw;
+}
+
+
+.image1 {
+    height: 200px;
+    width: 100vw;
+}
+
+.bg-container {
+    background-image: radial-gradient(#FFF8DC, #C89632);
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
+
+.para {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.card-container {
+    background-image: radial-gradient(#FFE4C4 ,#320096);
+    height: 600px;
+    
+}
+.card-heading {
+    color: white;
+    font-size: 55px;
+    font-weight: 500;
+}
+.card-para {
+    color: white;
+    font-size: 23px;
+    font-weight: 300;
+}
+.card-icon {
+    color: #7FFF00;
+    font-size: 20px
+}
+.sub-card {
+    background-color: white;
+    border-radius: 25px;
+    height: 350px;
+}
+.card-head {
+    color: #003232;
+    font-size: 27px;
+    font-weight: 600;
+}
+.card-paragraph {
+    color: #003232;
+    font-size: 20px;
+}
+.card-image {
+    height: 200px;
+    width: 180px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 200px;
+    border-width: 0px;
+}
+.cont {
+    border-radius: 15px;
+    height: 300px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.heading {
+    color: #0000FF;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.paragraph {
+    color: #323264;
+    font-size: 20px
+}
+
+
+.image {
+    height: 110px;
+    width: 120px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 200px;
+}
+
+.parag {
+    color: #323264;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+.card2 {
+    background-color: #152c3e;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.icon1 {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.param {
+    color: #5a7184;
+    font-size: 10px;
+}
