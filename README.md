@@ -1,1 +1,1 @@
-# OIBSIP_TASK1
+#DEMO Landing page This is the landing page which i have worked to complete my internship at OASIS INFOBYTE.The information provided in the website is real I gathered the required images and matter by contacting the guidance experts from Nxtwave as i am part of it and designed in my own way using HTML,CSS and Bootstrap.
